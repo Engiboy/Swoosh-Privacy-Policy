@@ -33,7 +33,7 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 User Control:  
 Users have the option to delete their account and associated data from our system at any time. This can be done through the App's settings or by contacting our support team.
 
-Contact Us: If you have any questions, concerns, or suggestions regarding this Privacy Policy or our privacy practices, please contact us at waddleworks.tech@gmail.com
+Contact Us: If you have any questions, concerns, or suggestions regarding this Privacy Policy or our privacy practices, please contact us at waddleworks.dev@gmail.com
 
 Please review this Privacy Policy carefully. By continuing to use Swoosh, you acknowledge that you have read and understood this policy and agree to its terms.
 
