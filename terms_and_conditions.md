@@ -33,4 +33,4 @@ We reserve the right to modify or replace these Terms at any time. If a revision
 
 By accessing or using the App, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the App.
 
-If you have any questions or concerns about these Terms, please contact us at waddleworks.tech@gmail.com.
+If you have any questions or concerns about these Terms, please contact us at waddleworks.dev@gmail.com.
